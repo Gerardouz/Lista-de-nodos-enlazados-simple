@@ -1,6 +1,6 @@
 # ver en repl.it: https://repl.it/X3G/3975
 
-
+# Metodo para ubicar en actual en la posicion "pos" (enviada por parametro)
 def pos_actual(self, pos):
 		
 		if (pos > self.__n):
